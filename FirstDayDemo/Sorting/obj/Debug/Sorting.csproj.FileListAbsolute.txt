@@ -1,0 +1,12 @@
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Sorting\bin\Debug\Sorting.exe.config
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Sorting\bin\Debug\Sorting.exe
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Sorting\bin\Debug\Sorting.pdb
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Sorting\obj\Debug\Sorting.exe
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Sorting\obj\Debug\Sorting.pdb
+C:\Users\IT STEP\Downloads\Demos\Demos\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\IT STEP\Downloads\Demos\Demos\Sorting\obj\Debug\Sorting.exe
+C:\Users\IT STEP\Downloads\Demos\Demos\Sorting\obj\Debug\Sorting.pdb
+C:\Users\IT STEP\Downloads\Demos\Demos\Sorting\bin\Debug\Sorting.exe
+C:\Users\IT STEP\Downloads\Demos\Demos\Sorting\bin\Debug\Sorting.pdb
+C:\Users\IT STEP\Downloads\Demos\Demos\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache

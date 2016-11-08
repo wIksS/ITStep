@@ -1,0 +1,12 @@
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Demo\bin\Debug\Demo.exe.config
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Demo\obj\Debug\Demo.exe
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Demo\obj\Debug\Demo.pdb
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Demo\bin\Debug\Demo.exe
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Demo\bin\Debug\Demo.pdb
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Demo\obj\Debug\LinqMappingDemo.csprojResolveAssemblyReference.cache
+C:\Users\IT STEP\Downloads\Demos\Demos\Demo\bin\Debug\Demo.exe.config
+C:\Users\IT STEP\Downloads\Demos\Demos\Demo\bin\Debug\Demo.exe
+C:\Users\IT STEP\Downloads\Demos\Demos\Demo\bin\Debug\Demo.pdb
+C:\Users\IT STEP\Downloads\Demos\Demos\Demo\obj\Debug\LinqMappingDemo.csprojResolveAssemblyReference.cache
+C:\Users\IT STEP\Downloads\Demos\Demos\Demo\obj\Debug\Demo.exe
+C:\Users\IT STEP\Downloads\Demos\Demos\Demo\obj\Debug\Demo.pdb

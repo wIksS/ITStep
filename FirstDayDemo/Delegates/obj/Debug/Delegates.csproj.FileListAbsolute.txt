@@ -1,0 +1,12 @@
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Delegates\bin\Debug\Delegates.exe.config
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Delegates\bin\Debug\Delegates.exe
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Delegates\bin\Debug\Delegates.pdb
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Delegates\obj\Debug\Delegates.exe
+c:\users\it step\documents\visual studio 2015\Projects\Demos\Delegates\obj\Debug\Delegates.pdb
+C:\Users\IT STEP\Downloads\Demos\Demos\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\IT STEP\Downloads\Demos\Demos\Delegates\obj\Debug\Delegates.exe
+C:\Users\IT STEP\Downloads\Demos\Demos\Delegates\obj\Debug\Delegates.pdb
+C:\Users\IT STEP\Downloads\Demos\Demos\Delegates\bin\Debug\Delegates.exe
+C:\Users\IT STEP\Downloads\Demos\Demos\Delegates\bin\Debug\Delegates.pdb
+C:\Users\IT STEP\Downloads\Demos\Demos\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\Events\bin\Debug\Events.exe.config
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\Events\bin\Debug\Events.exe
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\Events\bin\Debug\Events.pdb
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\Events\obj\Debug\Events.exe
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\Events\obj\Debug\Events.pdb

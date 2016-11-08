@@ -1,0 +1,6 @@
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\GenericList\bin\Debug\GenericList.exe.config
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\GenericList\bin\Debug\GenericList.exe
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\GenericList\bin\Debug\GenericList.pdb
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\GenericList\obj\Debug\GenericList.exe
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\GenericList\obj\Debug\GenericList.pdb

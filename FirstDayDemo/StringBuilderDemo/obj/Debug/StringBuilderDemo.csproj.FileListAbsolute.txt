@@ -1,0 +1,10 @@
+c:\users\it step\documents\visual studio 2015\Projects\Demos\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe.config
+c:\users\it step\documents\visual studio 2015\Projects\Demos\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe
+c:\users\it step\documents\visual studio 2015\Projects\Demos\StringBuilderDemo\bin\Debug\StringBuilderDemo.pdb
+c:\users\it step\documents\visual studio 2015\Projects\Demos\StringBuilderDemo\obj\Debug\StringBuilderDemo.exe
+c:\users\it step\documents\visual studio 2015\Projects\Demos\StringBuilderDemo\obj\Debug\StringBuilderDemo.pdb
+C:\Users\IT STEP\Downloads\Demos\Demos\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe.config
+C:\Users\IT STEP\Downloads\Demos\Demos\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe
+C:\Users\IT STEP\Downloads\Demos\Demos\StringBuilderDemo\bin\Debug\StringBuilderDemo.pdb
+C:\Users\IT STEP\Downloads\Demos\Demos\StringBuilderDemo\obj\Debug\StringBuilderDemo.exe
+C:\Users\IT STEP\Downloads\Demos\Demos\StringBuilderDemo\obj\Debug\StringBuilderDemo.pdb

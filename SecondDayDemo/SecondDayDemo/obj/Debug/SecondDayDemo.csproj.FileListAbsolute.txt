@@ -1,0 +1,6 @@
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\SecondDayDemo\bin\Debug\SecondDayDemo.exe.config
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\SecondDayDemo\obj\Debug\SecondDayDemo.csprojResolveAssemblyReference.cache
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\SecondDayDemo\bin\Debug\SecondDayDemo.exe
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\SecondDayDemo\bin\Debug\SecondDayDemo.pdb
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\SecondDayDemo\obj\Debug\SecondDayDemo.exe
+c:\users\it step\documents\visual studio 2015\Projects\SecondDayDemo\SecondDayDemo\obj\Debug\SecondDayDemo.pdb
