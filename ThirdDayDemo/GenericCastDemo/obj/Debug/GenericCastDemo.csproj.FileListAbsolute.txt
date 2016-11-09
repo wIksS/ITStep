@@ -1,0 +1,8 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\GenericCastDemo\bin\Debug\GenericCastDemo.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\GenericCastDemo\bin\Debug\GenericCastDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\GenericCastDemo\bin\Debug\GenericCastDemo.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\GenericCastDemo\bin\Debug\HashSets.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\GenericCastDemo\bin\Debug\HashSets.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\GenericCastDemo\obj\Debug\GenericCastDemo.csprojResolveAssemblyReference.cache
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\GenericCastDemo\obj\Debug\GenericCastDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\GenericCastDemo\obj\Debug\GenericCastDemo.pdb

@@ -1,0 +1,6 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\FileIO\bin\Debug\FileIO.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\FileIO\bin\Debug\FileIO.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\FileIO\bin\Debug\FileIO.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\FileIO\obj\Debug\FileIO.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\FileIO\obj\Debug\FileIO.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\FileIO\obj\Debug\FilesIO.csprojResolveAssemblyReference.cache

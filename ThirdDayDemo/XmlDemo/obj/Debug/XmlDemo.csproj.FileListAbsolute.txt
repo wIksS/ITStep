@@ -1,0 +1,6 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XmlDemo\bin\Debug\XmlDemo.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XmlDemo\bin\Debug\XmlDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XmlDemo\bin\Debug\XmlDemo.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XmlDemo\obj\Debug\XmlDemo.csprojResolveAssemblyReference.cache
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XmlDemo\obj\Debug\XmlDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XmlDemo\obj\Debug\XmlDemo.pdb

@@ -1,0 +1,6 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\WordsCounter\bin\Debug\WordsCounter.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\WordsCounter\bin\Debug\WordsCounter.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\WordsCounter\bin\Debug\WordsCounter.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\WordsCounter\obj\Debug\WordsCounter.csprojResolveAssemblyReference.cache
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\WordsCounter\obj\Debug\WordsCounter.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\WordsCounter\obj\Debug\WordsCounter.pdb

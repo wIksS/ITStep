@@ -1,0 +1,6 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\HashSets\bin\Debug\HashSets.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\HashSets\bin\Debug\HashSets.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\HashSets\bin\Debug\HashSets.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\HashSets\obj\Debug\HashSets.csprojResolveAssemblyReference.cache
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\HashSets\obj\Debug\HashSets.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\HashSets\obj\Debug\HashSets.pdb

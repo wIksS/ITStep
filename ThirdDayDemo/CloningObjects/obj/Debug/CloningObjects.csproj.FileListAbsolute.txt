@@ -1,0 +1,5 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\CloningObjects\bin\Debug\CloningObjects.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\CloningObjects\bin\Debug\CloningObjects.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\CloningObjects\bin\Debug\CloningObjects.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\CloningObjects\obj\Debug\CloningObjects.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\CloningObjects\obj\Debug\CloningObjects.pdb

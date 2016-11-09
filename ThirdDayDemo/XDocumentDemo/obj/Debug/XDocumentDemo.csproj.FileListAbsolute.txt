@@ -1,0 +1,5 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XDocumentDemo\bin\Debug\XDocumentDemo.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XDocumentDemo\bin\Debug\XDocumentDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XDocumentDemo\bin\Debug\XDocumentDemo.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XDocumentDemo\obj\Debug\XDocumentDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\XDocumentDemo\obj\Debug\XDocumentDemo.pdb

@@ -1,0 +1,5 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\Random\bin\Debug\Random.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\Random\bin\Debug\Random.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\Random\bin\Debug\Random.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\Random\obj\Debug\Random.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\Random\obj\Debug\Random.pdb

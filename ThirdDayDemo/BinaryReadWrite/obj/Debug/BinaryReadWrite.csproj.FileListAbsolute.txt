@@ -1,0 +1,6 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\BinaryReadWrite\bin\Debug\BinaryReadWrite.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\BinaryReadWrite\bin\Debug\BinaryReadWrite.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\BinaryReadWrite\bin\Debug\BinaryReadWrite.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\BinaryReadWrite\obj\Debug\BinaryReadWrite.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\BinaryReadWrite\obj\Debug\BinaryReadWrite.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\BinaryReadWrite\obj\Debug\BinaryReadWrite.csprojResolveAssemblyReference.cache

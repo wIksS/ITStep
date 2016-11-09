@@ -1,0 +1,8 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\SortedCollections\bin\Debug\SortedCollections.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\SortedCollections\bin\Debug\SortedCollections.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\SortedCollections\bin\Debug\SortedCollections.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\SortedCollections\obj\Debug\SortedCollections.csprojResolveAssemblyReference.cache
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\SortedCollections\obj\Debug\SortedCollections.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\SortedCollections\obj\Debug\SortedCollections.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\SortedCollections\bin\Debug\HashSets.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\SortedCollections\bin\Debug\HashSets.pdb

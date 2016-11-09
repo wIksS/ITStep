@@ -1,0 +1,6 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\QueueAndStacks\bin\Debug\QueueAndStacks.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\QueueAndStacks\bin\Debug\QueueAndStacks.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\QueueAndStacks\bin\Debug\QueueAndStacks.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\QueueAndStacks\obj\Debug\QueueAndStacks.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\QueueAndStacks\obj\Debug\QueueAndStacks.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\QueueAndStacks\obj\Debug\QueueAndStacks.csprojResolveAssemblyReference.cache

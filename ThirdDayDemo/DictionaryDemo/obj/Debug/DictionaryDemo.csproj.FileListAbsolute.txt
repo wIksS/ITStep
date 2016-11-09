@@ -1,0 +1,6 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojResolveAssemblyReference.cache

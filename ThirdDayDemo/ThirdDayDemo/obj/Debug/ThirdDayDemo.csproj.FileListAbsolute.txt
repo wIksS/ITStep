@@ -1,0 +1,6 @@
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\ThirdDayDemo\bin\Debug\ThirdDayDemo.exe.config
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\ThirdDayDemo\bin\Debug\ThirdDayDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\ThirdDayDemo\bin\Debug\ThirdDayDemo.pdb
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\ThirdDayDemo\obj\Debug\ThirdDayDemo.csprojResolveAssemblyReference.cache
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\ThirdDayDemo\obj\Debug\ThirdDayDemo.exe
+C:\Zahari_Kitanov\Lecture 2\Task4\ThirdDayDemo\ThirdDayDemo\obj\Debug\ThirdDayDemo.pdb
