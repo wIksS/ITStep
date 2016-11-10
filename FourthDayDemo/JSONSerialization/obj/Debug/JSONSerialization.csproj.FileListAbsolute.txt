@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\bin\Debug\JSONSerialization.exe.config
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\bin\Debug\JSONSerialization.exe
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\bin\Debug\JSONSerialization.pdb
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\obj\Debug\JSONSerialization.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\obj\Debug\JSONSerialization.exe
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\obj\Debug\JSONSerialization.pdb
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\bin\Debug\Newtonsoft.Json.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\bin\Debug\Newtonsoft.Json.xml
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\bin\Debug\GameCasino.Models.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\JSONSerialization\bin\Debug\GameCasino.Models.pdb

@@ -1,0 +1,5 @@
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Models\bin\Debug\GameCasino.Models.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Models\bin\Debug\GameCasino.Models.pdb
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Models\obj\Debug\GameCasino.Models.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Models\obj\Debug\GameCasino.Models.pdb
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Models\obj\Debug\GameCasino.Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Tests\bin\Debug\GameCasino.Tests.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Tests\bin\Debug\GameCasino.Tests.pdb
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Tests\obj\Debug\GameCasino.Tests.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Tests\obj\Debug\GameCasino.Tests.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.Tests\obj\Debug\GameCasino.Tests.pdb

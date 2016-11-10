@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\bin\Debug\GameCasino.DefaultTests.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\bin\Debug\GameCasino.DefaultTests.pdb
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\obj\Debug\GameCasino.DefaultTests.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\obj\Debug\GameCasino.DefaultTests.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\obj\Debug\GameCasino.DefaultTests.pdb
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\bin\Debug\GameCasino.Models.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\bin\Debug\GameCasino.Models.pdb
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\bin\Debug\nunit.framework.dll
+c:\users\student\documents\visual studio 2015\Projects\FourthDayDemo\GameCasino.DefaultTests\bin\Debug\nunit.framework.xml
